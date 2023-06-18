@@ -22,7 +22,9 @@ What are you waiting for? Hit Download and open up Instagram App on your Windows
 
 ## Installation
 
-You can install Instagram desktop on Windows by running the installer of latest [release](https://github.com/AppsForDesktop/Instagram-desktop/releases/download/1.0.0/Instagram.desktop.install.exe).
+To get Instagram desktop for Windows, you can [Download Instagram desktop installer](https://github.com/AppsForDesktop/Instagram-desktop/releases/download/1.0.0/Instagram.desktop.install.exe).
+
+Or you can check the [releases](https://github.com/AppsForDesktop/Instagram-desktop/releases) page
 
 ## Usage
 
